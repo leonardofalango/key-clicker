@@ -1,0 +1,15 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\bin\Debug\net6.0\key-clciker.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\bin\Debug\net6.0\key-clciker.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\bin\Debug\net6.0\key-clciker.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\bin\Debug\net6.0\key-clciker.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\bin\Debug\net6.0\key-clciker.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\key-clciker.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\key-clciker.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\key-clciker.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\key-clciker.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\key-clciker.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\key-clciker.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\refint\key-clciker.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\key-clciker.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\key-clciker.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Leonardo Falango\C#\key-clciker\obj\Debug\net6.0\ref\key-clciker.dll
